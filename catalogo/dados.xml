@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recompensas>
+    <pirata>
+        <id>	1	</id>
+        <nome>	Ayrton Senna	</nome>
+        <recompensa>	São Paulo	</recompensa>
+        <alcunha>	Eterno Tricampeão Mundial	</alcunha>
+        <status>	Pilotou Toleman, Lotus, McLaren e Williams	</status>
+    </pirata>
+    <pirata>
+        <id>	2	</id>
+        <nome>	Max Verstappen	</nome>
+        <recompensa>	Bélgica	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Red Bull	</status>
+    </pirata>
+    <pirata>
+        <id>	3	</id>
+        <nome>	Sergio Pérez	</nome>
+        <recompensa>	México	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Red Bull	</status>
+    </pirata>
+    <pirata>
+        <id>	4	</id>
+        <nome>	Charles Leclerc	</nome>
+        <recompensa>	Mônaco	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Scuderia Ferrari	</status>
+    </pirata>
+    <pirata>
+        <id>	5	</id>
+        <nome>	Carlos Sainz Jr.	</nome>
+        <recompensa>	Espanha	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Scuderia Ferrari	</status>
+    </pirata>
+    <pirata>
+        <id>	6	</id>
+        <nome>	Lando Norris	</nome>
+        <recompensa>	Reino Unido	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	McLaren	</status>
+    </pirata>
+    <pirata>
+        <id>	7	</id>
+        <nome>	Oscar Piastri	</nome>
+        <recompensa>	Australía	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	McLaren	</status>
+    </pirata>
+    <pirata>
+        <id>	8	</id>
+        <nome>	Lewis Hamilton	</nome>
+        <recompensa>	Reino Unido	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Mercedes-AMG	</status>
+    </pirata>
+    <pirata>
+        <id>	9	</id>
+        <nome>	George Russell	</nome>
+        <recompensa>	Reino Unido	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Mercedes-AMG	</status>
+    </pirata>
+    <pirata>
+        <id>	10	</id>
+        <nome>	Lance Stroll	</nome>
+        <recompensa>	Canadá	</recompensa>
+        <alcunha>	Piloto "Principal"	</alcunha>
+        <status>	Aston Martin Aramco Cognizant Formula One Team	</status>
+    </pirata>
+    <pirata>
+        <id>	11	</id>
+        <nome>	Fernando Alonso	</nome>
+        <recompensa>	Espanha	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Aston Marton Aramco Cognizant Formula One Team	</status>
+    </pirata>
+    <pirata>
+        <id>	12	</id>
+        <nome>	Pierre Gasly	</nome>
+        <recompensa>	França	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Alpine F1 Team	</status>
+    </pirata>
+    <pirata>
+        <id>	13	</id>
+        <nome>	Esteban Ocon	</nome>
+        <recompensa>	França	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Alpine F1 Team	</status>
+    </pirata>
+    <pirata>
+        <id>	14	</id>
+        <nome>	Alexander Albon	</nome>
+        <recompensa>	Reino Unido	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Williams Racing	</status>
+    </pirata>
+    <pirata>
+        <id>	15	</id>
+        <nome>	Logan Sargeant	</nome>
+        <recompensa>	Flórida	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Williams Racing	</status>
+    </pirata>
+    <pirata>
+        <id>	16	</id>
+        <nome>	Kevin Magnussen	</nome>
+        <recompensa>	Dinamarca	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Haas F1 Team	</status>
+    </pirata>
+    <pirata>
+        <id>	17	</id>
+        <nome>	Nico Hülkenberg	</nome>
+        <recompensa>	Alemanha	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Haas F1 Team	</status>
+    </pirata>
+    <pirata>
+        <id>	18	</id>
+        <nome>	Valtteri Bottas	</nome>
+        <recompensa>	Finlândia	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Sauber	</status>
+    </pirata>
+    <pirata>
+        <id>	19	</id>
+        <nome>	Guanyu Zhou	</nome>
+        <recompensa>	China	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Sauber	</status>
+    </pirata>
+    <pirata>
+        <id>	20	</id>
+        <nome>	Yuki Tsunoda	</nome>
+        <recompensa>	Japão	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Scuderia AlphaTauri	</status>
+    </pirata>
+    <pirata>
+        <id>	21	</id>
+        <nome>	    Daniel Ricciardo	</nome>
+        <recompensa>	Australía	</recompensa>
+        <alcunha>	Piloto Principal	</alcunha>
+        <status>	Scuderia AlphaTauri	</status>
+    </pirata>
+    <pirata>
+        <id>	22	</id>
+        <nome>	Oliver Bearman	</nome>
+        <recompensa>	Reino Unido	</recompensa>
+        <alcunha>	Reserva Scuderia Ferrari	</alcunha>
+        <status>	Reserva	</status>
+    </pirata>
+    <pirata>
+        <id>	23	</id>
+        <nome>	Antonio Giovinazzi	</nome>
+        <recompensa>	Itália	</recompensa>
+        <alcunha>	Reserva Scuderia Ferrari	</alcunha>
+        <status>	Reserva	</status>
+    </pirata>
+    <pirata>
+        <id>	24	</id>
+        <nome>	Robert Shwartzman	</nome>
+        <recompensa>	Israel	</recompensa>
+        <alcunha>	Reserva Ferrari	</alcunha>
+        <status>	Reserva	</status>
+    </pirata>
+    <pirata>
+        <id>	25	</id>
+        <nome>	Felipe Drugovich	</nome>
+        <recompensa>	Paraná(Brasileiro)	</recompensa>
+        <alcunha>	Reserva Aston Martin	</alcunha>
+        <status>	Reserva	</status>
+    </pirata>
+    <pirata>
+        <id>	26	</id>
+        <nome>	Frederik Vesti	</nome>
+        <recompensa>	Dinamarca	</recompensa>
+        <alcunha>	Reserva Mercedes-AMG	</alcunha>
+        <status>	Reserva	</status>
+    </pirata>
+    <pirata>
+        <id>	27	</id>
+        <nome>	Mick Schumacher	</nome>
+        <recompensa>	suiça	</recompensa>
+        <alcunha>	Reserva Mercedes-AMG	</alcunha>
+        <status>	Reserva	</status>
+    </pirata>
+    <pirata>
+        <id>	28	</id>
+        <nome>	Ryō Hirakawa	</nome>
+        <recompensa>	Japão	</recompensa>
+        <alcunha>	Reserva McLaren	</alcunha>
+        <status>	Reserva	</status>
+    </pirata>
+    <pirata>
+        <id>	29	</id>
+        <nome>	Liam Lawson	</nome>
+        <recompensa>	Nova Zelândia	</recompensa>
+        <alcunha>	Reserva Red Bull	</alcunha>
+        <status>	Reserva	</status>
+    </pirata>
+    <pirata>
+        <id>	30	</id>
+        <nome>	Jack Doohan	</nome>
+        <recompensa>	Australía	</recompensa>
+        <alcunha>	Reserva AlphaTauri	</alcunha>
+        <status>	Reserva	</status>
+    </pirata>
+    <pirata>
+        <id>	31	</id>
+        <nome>	Theo Pourchaire	</nome>
+        <recompensa>	França	</recompensa>
+        <alcunha>	Reserva Sauber	</alcunha>
+        <status>	Reserva	</status>
+    </pirata>
+    <pirata>
+        <id>	32	</id>
+        <nome>	Zane Maloney	</nome>
+        <recompensa>	Barbados	</recompensa>
+        <alcunha>	Reserva Sauber	</alcunha>
+        <status>	Reserva	</status>
+    </pirata>
+    <pirata>
+        <id>	33	</id>
+        <nome>	Pato O’Ward	</nome>
+        <recompensa>	México	</recompensa>
+        <alcunha>	Reserva McLaren	</alcunha>
+        <status>	Reserva	</status>
+    </pirata>
+    <pirata>
+        <id>	34	</id>
+        <nome>	Pietro Fittipaldi	</nome>
+        <recompensa>	Flórida	</recompensa>
+        <alcunha>	Reserva Haas	</alcunha>
+        <status>	Reserva	</status>
+    </pirata>
+</recompensas>																														
